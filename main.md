@@ -26,9 +26,9 @@
 
 以下のツイートが初出である。
 
-<blockquote class="twitter-tweet"><a href="https://twitter.com/takuya_M_cr_off/status/1259665428126658565?s=19"/></blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">マトリックスコードポイント！</p>&mdash; À la recherche des forces perdues : 和澄陽花 / 藍徽陽 (@Takuya_M_Somese) <a href="https://twitter.com/Takuya_M_Somese/status/1259665428126658565?ref_src=twsrc%5Etfw">May 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-また、具体的事項の初公開は[語学言語学界隈凡人部 Discord サーバ](https://discord.gg/SCHUFHc) において行われた。
+また、具体的事項の初公開は [語学言語学界隈凡人部 Discord サーバ](https://discord.gg/SCHUFHc) において行われた。
 
 [同投稿先頭部](https://discordapp.com/channels/556467275776000000/597366898090573835/709246180911218759)
 
