@@ -26,7 +26,7 @@
 
 以下のツイートが初出である。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">マトリックスコードポイント！</p>&mdash; À la recherche des forces perdues : 和澄陽花 / 藍徽陽 (@Takuya_M_Somese) <a href="https://twitter.com/Takuya_M_Somese/status/1259665428126658565?ref_src=twsrc%5Etfw">May 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">マトリックスコードポイント！</p>&mdash; À la recherche des forces perdues : 和澄陽花 / 藍徽陽 (@Takuya_M_Somese) <a href="https://twitter.com/Takuya_M_Somese/status/1259665428126658565?ref_src=twsrc%5Etfw">May 11, 2020</a></blockquote>
 
 また、具体的事項の初公開は [語学言語学界隈凡人部 Discord サーバ](https://discord.gg/SCHUFHc) において行われた。
 
@@ -47,3 +47,7 @@
 本式・劣式から異体字縛りを解いて同一文字体系占有率を減じ収容可能文字容量を増加させたるために用いたもの。
 
 # 仕様及び構造
+
+## Unicode 使用可能空間
+
+## U4C 符号空間
