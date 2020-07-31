@@ -12,7 +12,7 @@
 
 <div style="width: 15em; text-align: center;">
 
-[Logo of Supoijar.org](./logo.tr.supoijar.org.png)
+![Logo of Supoijar.org](./logo.tr.supoijar.org.png)
 
 Powered by [Supoijar.org](https://supoijar-org.github.io/t-official/)
 
