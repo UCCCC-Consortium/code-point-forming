@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="./m.repo.gh.css">
-
 ### 人工言語人工文字界隈符号化文字群国際コンソーシアム
 
 ### code-point-forming
@@ -12,9 +10,10 @@
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-<div class="pwd-c-dp">
+<div style="width: 15em; text-align: center;">
 
 [Logo of Supoijar.org](./logo.tr.supoijar.org.png)
+
 Powered by [Supoijar.org](https://supoijar-org.github.io/t-official/)
 
 </div>
