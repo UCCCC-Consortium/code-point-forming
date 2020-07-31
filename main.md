@@ -22,7 +22,7 @@
 
 [https://twitter.com/takuya_M_cr_off/status/1259665428126658565?s=19]
 
-また、具体的事項の初公開は[https://discord.gg/SCHUFHc](語学言語学界隈凡人部 Discordサーバ)において行われた。
+また、具体的事項の初公開は[https://discord.gg/SCHUFHc](語学言語学界隈凡人部_Discordサーバ) において行われた。
 
 [https://discordapp.com/channels/556467275776000000/597366898090573835/709246180911218759]
 
