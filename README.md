@@ -6,3 +6,4 @@
 
 # 人工言語人工文字界隈符号化文字群策定部会
 ### Universal Coded Characters for Conlangs and Conchars
+具体的な[main.md](./main.md)に収載。
